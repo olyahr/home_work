@@ -1,0 +1,6 @@
+ Variables are sort of containers for storing data values, and it is also memory location for the data type. 
+ There are certain rules that need to be followed before declaring them. V
+ ariables are generally names allocated to values. The names are alphanumeric, i.e., they have a-z and 0-9. 
+ Also, you can use special characters while declaring a variable such as $ or _. 
+ While writing a program be it for a small operation (addition, multiplication) or building an application, you need to require variables. 
+ The variable declared for a value should start with an alphabet and later may include numbers or special characters. 
